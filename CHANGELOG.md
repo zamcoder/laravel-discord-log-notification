@@ -1,6 +1,6 @@
 # Changelog
 
-All Notable changes to `laravel-discord-logger` will be documented in this file.
+All Notable changes to `laravel-discord-log-notification` will be documented in this file.
 
 ## 1.1.8
 

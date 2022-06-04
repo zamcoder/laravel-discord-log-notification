@@ -1,17 +1,17 @@
 # Laravel Discord Logger
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/zamcoder/laravel-discord-logger.svg?style=flat-square)](https://packagist.org/packages/zamcoder/laravel-discord-logger)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/zamcoder/laravel-discord-log-notification.svg?style=flat-square)](https://packagist.org/packages/zamcoder/laravel-discord-log-notification)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Total Downloads](https://img.shields.io/packagist/dt/zamcoder/laravel-discord-logger.svg?style=flat-square)](https://packagist.org/packages/zamcoder/laravel-discord-logger)
+[![Total Downloads](https://img.shields.io/packagist/dt/zamcoder/laravel-discord-log-notification.svg?style=flat-square)](https://packagist.org/packages/zamcoder/laravel-discord-log-notification)
 
-`zamcoder/laravel-discord-logger` is a laravel package providing a logging handler to send logs to a Discord channel. 
+`zamcoder/laravel-discord-log-notification` is a laravel package providing a logging handler to send logs to a Discord channel. 
 
 ## Installation
 
 You can install the package via composer:
 
 ``` bash
-composer require zamcoder/laravel-discord-logger
+composer require zamcoder/laravel-discord-log-notification
 ```
 
 If you are using Laravel 5.5 or later, the service provider will automatically be discovered. 
