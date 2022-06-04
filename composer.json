@@ -1,5 +1,5 @@
 {
-    "name": "zamcoder/laravel-discord-logger",
+    "name": "zamcoder/laravel-discord-log-notification",
     "description": "Logging to a discord channel in Laravel",
     "keywords": [
         "laravel",
